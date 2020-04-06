@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278875500168",
+    "firebase_url": "https://fire-city-7c650.firebaseio.com",
+    "project_id": "fire-city-7c650",
+    "storage_bucket": "fire-city-7c650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278875500168:android:e74e01904eba0c930bb93d",
+        "android_client_info": {
+          "package_name": "com.example.firestore_city_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278875500168-qk8clt6v42hv4ooq6j8njiu6pesvt0k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi7YIhAfUnmm4lfTJTm0m5Xl5TgPoM-k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278875500168-qk8clt6v42hv4ooq6j8njiu6pesvt0k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
